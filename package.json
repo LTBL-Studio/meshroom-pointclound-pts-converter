@@ -1,5 +1,5 @@
 {
-  "name": "mr-pointclound-pts-converter",
+  "name": "meshroom-pointclound-pts-converter",
   "version": "1.0.0",
   "description": "Meshroom point cloud converter Script",
   "main": "index.js",
